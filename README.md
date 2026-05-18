@@ -261,8 +261,8 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 ## 👤 Author
 
 **Your Name**
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](www.linkedin.com/in/prathamesh-nehete-8b27b8249/)
-- 🐙 GitHub: [github.com/yourusername](https://github.com/Pratham2474)
+- 💼 LinkedIn: [linkedin.com](www.linkedin.com/in/prathamesh-nehete-8b27b8249)
+- 🐙 GitHub: [github.com](https://github.com/Pratham2474)
 - 📧 Email: prathameshnehete73@gmail.com
 
 ---
